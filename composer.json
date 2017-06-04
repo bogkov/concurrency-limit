@@ -1,0 +1,33 @@
+{
+    "name": "Concurrency Limit",
+    "description": "",
+    "keywords": [
+        "concurrency limit",
+        "request limit"
+    ],
+    "version": "1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bogdan Koval",
+            "email": "scorpioninua@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "doctrine/cache": "^1.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bogkov\\ConcurrencyLimit\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bogkov\\ConcurrencyLimitTests\\": "tests/"
+        }
+    }
+}

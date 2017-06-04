@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.org/bogkov/concurrency-limit.svg?branch=master)](https://travis-ci.org/bogkov/concurrency-limit) [![Coverage Status](https://coveralls.io/repos/github/bogkov/concurrency-limit/badge.svg?branch=master)](https://coveralls.io/github/bogkov/concurrency-limit?branch=master)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/bogkov/concurrency-limit/master/LICENSE)
+[![Latest Stable Version](https://img.shields.io/packagist/v/bogkov/concurrency-limit.svg?style=flat-square)](https://packagist.org/packages/bogkov/concurrency-limit)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.0-8892BF.svg?style=flat-square)](https://php.net/)
+[![Build Status](https://travis-ci.org/bogkov/concurrency-limit.svg?branch=master)](https://travis-ci.org/bogkov/concurrency-limit)
+[![codecov](https://codecov.io/gh/bogkov/concurrency-limit/branch/master/graph/badge.svg)](https://codecov.io/gh/bogkov/concurrency-limit)
 
 # Concurrency Limit
 

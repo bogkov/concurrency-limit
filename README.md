@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bogkov/concurrency-limit.svg?branch=master)](https://travis-ci.org/bogkov/concurrency-limit)
+[![Build Status](https://travis-ci.org/bogkov/concurrency-limit.svg?branch=master)](https://travis-ci.org/bogkov/concurrency-limit) [![Coverage Status](https://coveralls.io/repos/github/bogkov/concurrency-limit/badge.svg?branch=master)](https://coveralls.io/github/bogkov/concurrency-limit?branch=master)
 
 # Concurrency Limit
 

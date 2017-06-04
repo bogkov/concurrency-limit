@@ -10,7 +10,7 @@ This component provides the functionality to concurrency limit on server
 
 ## Installation
 
-This package can be installed as a [Composer](https://getcomposer.org/) dependency [bogkov/bogkov/concurrency-limit](https://packagist.org/packages/bogkov/concurrency-limit)
+This package can be installed as a [Composer](https://getcomposer.org/) dependency [bogkov/concurrency-limit](https://packagist.org/packages/bogkov/concurrency-limit)
 
 ```bash
 composer require bogkov/concurrency-limit

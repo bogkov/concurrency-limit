@@ -1,6 +1,6 @@
 {
     "name": "bogkov/concurrency-limit",
-    "description": "",
+    "description": "This component provides the functionality to concurrency limit on server",
     "keywords": [
         "concurrency limit",
         "request limit"

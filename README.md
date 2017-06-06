@@ -3,6 +3,7 @@
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.0-8892BF.svg)](https://php.net/)
 [![Build Status](https://travis-ci.org/bogkov/concurrency-limit.svg)](https://travis-ci.org/bogkov/concurrency-limit)
 [![codecov](https://img.shields.io/codecov/c/github/bogkov/concurrency-limit.svg)](https://codecov.io/gh/bogkov/concurrency-limit)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bogkov/concurrency-limit/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bogkov/concurrency-limit/?branch=master)
 
 # Concurrency Limit
 
